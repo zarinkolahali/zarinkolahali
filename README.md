@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **tensorflow, pytorch, redis.**
 
-- 📫 How to reach me **ali.zariinkolah@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
