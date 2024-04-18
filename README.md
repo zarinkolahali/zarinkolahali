@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **ML, Python, docker.**
 
-- 📝 I regularly write articles on [https://alizarinkolah.ir/blog](https://alizarinkolah.ir/blog)
-
 - 💬 Ask me about **tensorflow, pytorch, redis.**
 
 - 📫 How to reach me **ali.zariinkolah@gmail.com**
