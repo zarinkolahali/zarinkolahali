@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: he
 - ⚡ Fun fact: Fear that you will not face today will rule your life tomorrow.
+
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)     [![License: AGPL v3]
